@@ -2,5 +2,5 @@ git&github third lesson
 =============================
 
 <pre>
-* nothing : ...
+* branch
 </pre>
